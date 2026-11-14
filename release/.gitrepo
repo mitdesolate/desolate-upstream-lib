@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/mitdesolate/desolate-upstream-lib
+	branch = release
+	commit = 9011aaf4e68bcff5e8fb6db1e52a8d36f3ebcb45
+	parent = f936a3ff5163427fec58a3f0b922000cc55c4e16
+	method = merge
+	cmdver = 0.4.9
