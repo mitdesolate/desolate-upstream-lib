@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/mitdesolate/desolate-upstream-lib
 	branch = release
-	commit = 9011aaf4e68bcff5e8fb6db1e52a8d36f3ebcb45
-	parent = f936a3ff5163427fec58a3f0b922000cc55c4e16
+	commit = cfa9d6d8edbc3a9e97ece7a56cb22fb8cf86378c
+	parent = ae9ab0c49d5c1bdad5cc2957e280591d60f560f7
 	method = merge
 	cmdver = 0.4.9
